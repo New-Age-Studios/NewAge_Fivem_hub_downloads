@@ -11,5 +11,31 @@
       { "type": "image", "content": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=600&auto=format&fit=crop" },
       { "type": "text", "content": "2. Jogue a pasta 'newage_garage' dentro da pasta 'resources' do seu servidor e adicione 'ensure newage_garage' no seu server.cfg." }
     ]
+  },
+  {
+    "id": 1,
+    "name": "NewAge Garage MLO",
+    "version": "v1.0.2",
+    "downloaded": true,
+    "thumbnail": "https://images.unsplash.com/photo-1605806616949-1e87b487cb2a?q=80&w=600&auto=format&fit=crop",
+    "description": "Uma garagem moderna de alta qualidade para uso em servidores de roleplay. Inclui texturas otimizadas e luzes dinâmicas.",
+    "installGuide": [
+      { "type": "text", "content": "1. Baixe o arquivo e extraia o conteúdo na sua pasta temporária." },
+      { "type": "image", "content": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=600&auto=format&fit=crop" },
+      { "type": "text", "content": "2. Jogue a pasta 'newage_garage' dentro da pasta 'resources' do seu servidor e adicione 'ensure newage_garage' no seu server.cfg." }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "NewAge Garage MLO",
+    "version": "v1.0.2",
+    "downloaded": true,
+    "thumbnail": "https://images.unsplash.com/photo-1605806616949-1e87b487cb2a?q=80&w=600&auto=format&fit=crop",
+    "description": "Uma garagem moderna de alta qualidade para uso em servidores de roleplay. Inclui texturas otimizadas e luzes dinâmicas.",
+    "installGuide": [
+      { "type": "text", "content": "1. Baixe o arquivo e extraia o conteúdo na sua pasta temporária." },
+      { "type": "image", "content": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=600&auto=format&fit=crop" },
+      { "type": "text", "content": "2. Jogue a pasta 'newage_garage' dentro da pasta 'resources' do seu servidor e adicione 'ensure newage_garage' no seu server.cfg." }
+    ]
   }
 ]
